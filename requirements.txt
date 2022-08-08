@@ -1,0 +1,5 @@
+Requirements for this repo:
+
+pygame
+pyperclip
+numpy
